@@ -1,5 +1,5 @@
 <!-- Pastel Header -->
-<h1 align="center" style="color:#c9a7f5;">✨ Hi, I'm <span style="color:#a78bfa;">Ghifary Adnan</span> ✨</h1>
+<h1 align="center" style="color:#c9a7f5;">Hi, I'm <span style="color:#a78bfa;">Ghifary Adnan!</span>👋🏼</h1>
 <h3 align="center" style="color:#9fbadf;">Frontend Developer • Indonesia</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌸 Soft Achievements & Badges
+## 🏆 Soft Achievements & Badges
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ghifaryadnan&theme=flat&no-frame=true&no-bg=true&margin-w=15" />
 </p>
