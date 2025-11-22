@@ -17,8 +17,8 @@
 
 ## 🍡 About Me
 - 💼 Currently working at **Kia Tour & Travel**  
-- 💬 Ask me about **React JS, Next.js, Redux, Tailwind, Node.js & JavaScript**  
-- ✨ I enjoy building clean and modern interfaces  
+- 💬 Ask me about **Full-Stack JavaScript, MERN Stack (MongoDB, Express, React, Node.js), API Development, UI/UX Frontend, and Modern Web Architecture**
+- ✨ I enjoy building clean, modern, and scalable full-stack applications 
 - 📫 Email: **ghifaryadnan@proton.me**  
 - 🔗 LinkedIn: *ghifaryadnanharully*  
 
