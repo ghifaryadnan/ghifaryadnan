@@ -38,6 +38,8 @@
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-d1ffd6?style=for-the-badge&logo=node.js&logoColor=339933">
+  <img src="https://img.shields.io/badge/Express.js-ffe6cc?style=for-the-badge&logo=express&logoColor=000000">
+  <img src="https://img.shields.io/badge/MongoDB-d9ffe6?style=for-the-badge&logo=mongodb&logoColor=47A248">
 </p>
 
 ---
