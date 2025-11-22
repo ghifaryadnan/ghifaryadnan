@@ -10,7 +10,7 @@
 
 ## 🌸 Soft Achievements & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghifaryadnan&theme=flat&no-frame=true&margin-w=15&title=Stars,Followers,Repositories,Commits,Issues&row=1&column=5&no-bg=true&color= pastel" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghifaryadnan&theme=flat&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
