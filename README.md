@@ -1,6 +1,6 @@
 <!-- Pastel Header -->
 <h1 align="center" style="color:#c9a7f5;">Hi, I'm <span style="color:#a78bfa;">Ghifary Adnan!</span>👋🏼</h1>
-<h3 align="center" style="color:#9fbadf;">Frontend Developer • Indonesia</h3>
+<h3 align="center" style="color:#9fbadf;">Fullstack Javascript Developer • Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghifaryadnan&label=Profile%20views&color=d8b4fe&style=flat">
